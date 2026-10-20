@@ -1,0 +1,303 @@
+{
+  "profile": {
+    "name": "ALIYAH",
+    "fullName": "Aliyah Salsabila Putri",
+    "role": "Business Admin & Finance",
+    "location": "Malang / Probolinggo, East Java, Indonesia",
+    "status": "OPEN TO FINANCE, ACCOUNTING & OPERATIONS ROLES",
+    "headline": "I manage finance & operations that drive real business impact.",
+    "bio": "Business Administration student with a strong interest in Finance, Accounting, and Business Operations. Experienced in budgeting, financial accountability reporting (LPJ), proposal preparation, and administrative workflow management through organizational and committee roles. Equipped with foundational financial accounting knowledge, Microsoft Excel skills, and strong organizational, analytical, and coordination abilities to support efficient financial and business operations.",
+    "email": "aliyahsalsabila31@gmail.com",
+    "phone": "+62 812-1692-1314",
+    "whatsappUrl": "https://wa.me/6281216921314",
+    "availability": "Available for Opportunities",
+    "avatars": {
+      "left": "/ale profile.jpeg",
+      "right": "/ale profile.jpeg",
+      "outdoors": "/ale profile.jpeg"
+    },
+    "socials": {
+      "linkedin": "https://www.linkedin.com/in/aliyah-salsabila-putri",
+      "whatsapp": "https://wa.me/6281216921314"
+    }
+  },
+  "education": {
+    "institution": "Universitas Brawijaya",
+    "campus": "Faculty of Administrative Science (FIA UB) - Malang",
+    "degree": "Bachelor of Business Administration",
+    "period": "Jul 2024 – Jul 2028 (Expected)",
+    "gpa": "3.89 / 4.00",
+    "status": "Active Undergraduate Student",
+    "focus": "Finance, Accounting, and Business Operations"
+  },
+  "skills": {
+    "hardSkills": [
+      "Financial Administration",
+      "Budgeting & Allocation",
+      "Accountability Reporting (LPJ)",
+      "Proposal Preparation",
+      "Document Management & Filing",
+      "Data Entry & Auditing",
+      "Workflow Coordination"
+    ],
+    "tools": [
+      "Microsoft Excel",
+      "Microsoft Word",
+      "Google Workspace",
+      "Notion",
+      "PrestaShop",
+      "XAMPP"
+    ],
+    "softSkills": [
+      "Leadership",
+      "Stakeholder Coordination",
+      "Team Collaboration",
+      "Communication",
+      "Time Management",
+      "Attention to Detail",
+      "Problem Solving",
+      "Organizational Management"
+    ],
+    "languages": [
+      { "name": "Indonesian", "level": "Native Proficiency" },
+      { "name": "English", "level": "Elementary Proficiency" }
+    ]
+  },
+  "certifications": [
+    {
+      "id": "cert-1",
+      "title": "Microsoft Excel Basic Formula",
+      "issuer": "MySkill",
+      "date": "Sep 2026",
+      "badgeBg": "#fec84b",
+      "category": "Tools & Data",
+      "file": "/sertifikasi-skill/MySkill_Excel_Basic_Formula.jpg"
+    },
+    {
+      "id": "cert-2",
+      "title": "Finance and Accounting: Accounting Fundamental",
+      "issuer": "MySkill",
+      "date": "Sep 2026",
+      "badgeBg": "#a6e8cf",
+      "category": "Finance",
+      "file": "/sertifikasi-skill/MySkill_Finance_Accounting.jpg"
+    },
+    {
+      "id": "cert-3",
+      "title": "Getting Started with Data",
+      "issuer": "IBM",
+      "date": "Jun 2026",
+      "badgeBg": "#93c5fd",
+      "category": "Data Analytics",
+      "file": "/sertifikasi-skill/IBM_SkillsBuild_Data.jpg"
+    },
+    {
+      "id": "cert-4",
+      "title": "Gemini Certified Student for University",
+      "issuer": "Google for Education",
+      "date": "May 2026 – May 2029",
+      "badgeBg": "#f472b6",
+      "category": "AI & Productivity",
+      "file": "/sertifikasi-skill/Google_Gemini_Certified.jpg"
+    }
+  ],
+  "projects": [
+    {
+      "id": "notion-himabis",
+      "title": "Notion-Based Administrative Workspace & Correspondence Management",
+      "summary": "Designed a Notion-based administrative workspace and correspondence management system to streamline HIMABIS 2026 operational workflows.",
+      "category": "SYSTEMS",
+      "platform": "NOTION WORKSPACE",
+      "year": "2026",
+      "metric": "300+ Documents Managed",
+      "tapeColor": "yellow",
+      "image": "/Portofolio/Notion Workspace Biro.png",
+      "projectUrl": "https://skitter-pleasure-87c.notion.site/Administrative-Bureau-2cd1761bba768056a9efd1d6495e6e7a?pvs=143",
+      "details": {
+        "client": "HIMABIS FIA UB",
+        "timeline": "Jan 2026 – Present",
+        "role": "Head of Administrative Bureau / Workspace Architect",
+        "challenge": "Official letters, archives, and 300+ organizational records were stored across fragmented channels without a centralized relational database, creating delays in tracking proposals and LPJ submissions across 15+ programs.",
+        "solution": "Architected an integrated Notion workspace with real-time correspondence databases, standardized verification status tags, and unified LPJ report templates.",
+        "impact": [
+          "Supervised 9 bureau members with zero document misplacement or data loss",
+          "Reduced file audit and archive retrieval turnaround time by 70%",
+          "Ensured seamless administrative execution for 15+ student association work programs"
+        ],
+        "deliverables": [
+          "Notion Relational Database",
+          "Correspondence SOP Guidelines",
+          "Centralized Digital Archive",
+          "Standard LPJ Framework"
+        ]
+      }
+    },
+    {
+      "id": "hasa-wear",
+      "title": "Hasa Wear — Local E-Commerce Website Implementation",
+      "summary": "Developed and deployed 'Hasa Wear', a local e-commerce website using PrestaShop on a local XAMPP environment.",
+      "category": "E-COMMERCE",
+      "platform": "PRESTASHOP + XAMPP",
+      "year": "2025",
+      "metric": "Fully Functional E-Store",
+      "tapeColor": "blue",
+      "image": "/Portofolio/Prestashop XAMPP_Aliyah.png",
+      "details": {
+        "client": "Hasa Wear Brand Implementation",
+        "timeline": "3 Months",
+        "role": "Project Lead & E-Commerce Implementer",
+        "challenge": "Building a fully functional local retail e-commerce prototype complete with customized product catalogs, size/color variant logic, shopping carts, and automated checkout invoicing.",
+        "solution": "Configured local Apache and MySQL database environments on XAMPP and customized PrestaShop modules for product merchandising, cart rules, and order processing workflows.",
+        "impact": [
+          "Successfully deployed responsive product catalog with 100% functional checkout",
+          "Generated automated digital order receipts and simulated localized shipping fee structures",
+          "Demonstrated solid operational understanding of commercial technology infrastructure"
+        ],
+        "deliverables": [
+          "Product Catalog Setup",
+          "MySQL Database Architecture",
+          "Checkout & Invoice Simulation",
+          "User Workflow Documentation"
+        ]
+      }
+    }
+  ],
+  "experiences": [
+    {
+      "id": 1,
+      "sortOrder": 1,
+      "category": "Organisations",
+      "role": "Head of Administrative Bureau",
+      "company": "HIMABIS FIA UB - Malang",
+      "period": "Jan 2026 — Present",
+      "badgeBg": "#a6e8cf",
+      "iconBg": "#fec84b",
+      "icon": "★",
+      "certificate": null,
+      "points": [
+        "Lead and supervise 9 bureau members in overseeing administrative operations and organizational correspondence.",
+        "Maintain and centralize 300+ institutional documents, official letters, and archives with zero record loss.",
+        "Coordinate the preparation and review of 13+ proposals, official letters, and accountability reports (LPJ) across 15+ student programs."
+      ]
+    },
+    {
+      "id": 2,
+      "sortOrder": 2,
+      "category": "Committees",
+      "role": "Steering Committee",
+      "company": "Business Cup - Malang",
+      "period": "May 2026 — Sep 2026",
+      "badgeBg": "#fde68a",
+      "iconBg": "#ff708f",
+      "icon": "✦",
+      "certificate": "/Sertifikat staff/Steering Committee Business Cup.jpg",
+      "points": [
+        "Supervised the progress and deliverables of 4 committee members, ensuring alignment with event strategic milestones.",
+        "Reviewed event rundown, technical guidelines, and operational SOPs to guarantee comprehensive readiness.",
+        "Monitored partnership coordination and sponsor deliverables across 5+ collaborating organizations."
+      ]
+    },
+    {
+      "id": 3,
+      "sortOrder": 3,
+      "category": "Organisations",
+      "role": "Staff of Business Development",
+      "company": "BEYOND - Malang",
+      "period": "Mar 2026 — Jun 2026",
+      "badgeBg": "#93c5fd",
+      "iconBg": "#3b82f6",
+      "icon": "●",
+      "certificate": "/Sertifikat staff/Staff of Business Development.png",
+      "points": [
+        "Conducted strategic outreach to 100+ prospective corporate partners and sponsors.",
+        "Developed customized sponsorship proposals with tangible brand visibility perks and calculated ROI.",
+        "Secured 7+ strategic corporate partnerships worth IDR 2.5 million in funding plus essential in-kind support."
+      ]
+    },
+    {
+      "id": 4,
+      "sortOrder": 4,
+      "category": "Organisations",
+      "role": "Staff of Administrative Bureau",
+      "company": "HIMABIS FIA UB - Malang",
+      "period": "Feb 2025 — Dec 2025",
+      "badgeBg": "#fde68a",
+      "iconBg": "#a855f7",
+      "icon": "🏆",
+      "certificate": "/Sertifikat staff/sertif best staff biro admin.jpg",
+      "points": [
+        "Awarded Best Staff of Administrative Bureau (Q3) for outstanding accountability and high-quality deliverables.",
+        "Served as Secretary of Execution for 2 major organizational work programs.",
+        "Audited 50+ administrative documents and official archives to ensure strict compliance with institutional guidelines."
+      ]
+    },
+    {
+      "id": 5,
+      "sortOrder": 5,
+      "category": "Committees",
+      "role": "Staff of Event (Fashion & Beauty Section)",
+      "company": "Inspired Fest - Malang",
+      "period": "May 2025 — Oct 2025",
+      "badgeBg": "#fbcfe8",
+      "iconBg": "#ec4899",
+      "icon": "🌸",
+      "certificate": "/Sertifikat staff/Staff Event Inspired Fest_Aliyah Salsabila Putri.jpg",
+      "points": [
+        "Led the planning and operational execution of the Fashion & Beauty exhibition section for Inspired Fest 2025.",
+        "Coordinated the participation of 3+ retail brands, managing partner communications, rundown schedules, and logistics.",
+        "Ensured smooth on-site event execution, booth setup, and positive visitor experience."
+      ]
+    },
+    {
+      "id": 6,
+      "sortOrder": 6,
+      "category": "Committees",
+      "role": "Secretary",
+      "company": "Business Cup - Malang",
+      "period": "Apr 2025 — Sep 2025",
+      "badgeBg": "#fed7aa",
+      "iconBg": "#f97316",
+      "icon": "✍",
+      "certificate": "/Sertifikat staff/Sertifikat sekpel BUSINESS CUP.png",
+      "points": [
+        "Assisted in documenting and monitoring the IDR 8 million event operating budget, ensuring full accountability.",
+        "Prepared and managed 5+ formal Memorandums of Understanding (MoUs) with external event partners.",
+        "Managed comprehensive event documentation, official correspondence, and executive meeting minutes."
+      ]
+    },
+    {
+      "id": 7,
+      "sortOrder": 7,
+      "category": "Committees",
+      "role": "Staff of Event",
+      "company": "Kumpul Bisnis - Malang",
+      "period": "Sep 2024 — Nov 2024",
+      "badgeBg": "#e4e4e7",
+      "iconBg": "#64748b",
+      "icon": "👥",
+      "certificate": "/Sertifikat staff/Sertif Kumpul Bisnis_Aliyah Salsabila Putri.png",
+      "points": [
+        "Assisted in coordinating event operations and logistical preparations for a cohort bonding program involving 80+ participants.",
+        "Managed participant registration databases, real-time attendance tracking, and comprehensive activity documentation.",
+        "Facilitated team alignment and smooth operational execution."
+      ]
+    },
+    {
+      "id": 8,
+      "sortOrder": 8,
+      "category": "Work",
+      "role": "Treasurer of KPPS TPS 039",
+      "company": "General Elections Commission (KPU RI) - Probolinggo",
+      "period": "Jan 2024 — Feb 2024",
+      "badgeBg": "#fec84b",
+      "iconBg": "#12b76a",
+      "icon": "Rp",
+      "certificate": "/Work(bukti)/Treasure KPPS 039.jpg",
+      "points": [
+        "Managed and audited an operational budget of IDR 13.6 million for polling station activities during the 2024 General Election.",
+        "Drafted and submitted 19+ financial documents and official accountability reports (LPJ) with zero discrepancy.",
+        "Maintained 3+ income records and 16+ expenditure ledgers supported by complete legal vouchers and receipts."
+      ]
+    }
+  ]
+}

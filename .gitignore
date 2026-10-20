@@ -1,0 +1,32 @@
+# Dependencies
+node_modules/
+
+# Environment variables & secrets (CRITICAL: DO NOT COMMIT)
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+*.env
+server/.env
+client/.env
+
+# User-submitted messages data (privacy: contains real visitor emails/names)
+server/data/messages.json
+
+# Production builds
+dist/
+build/
+client/dist/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Editor & OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

@@ -1,0 +1,96 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Subtle ruled lined notebook paper background */
+.bg-notebook-paper {
+  background-color: #f7f6f0;
+  background-image: repeating-linear-gradient(
+    to bottom,
+    transparent,
+    transparent 35px,
+    #ded9c4 35px,
+    #ded9c4 36px
+  );
+  background-attachment: local;
+}
+
+/* Hand-drawn sketched wavy borders */
+.wavy-badge {
+  clip-path: polygon(
+    0% 8%, 4% 0%, 96% 2%, 100% 12%,
+    99% 88%, 95% 100%, 5% 98%, 0% 85%
+  );
+}
+
+.wavy-badge-alt {
+  clip-path: polygon(
+    2% 3%, 98% 0%, 96% 96%, 3% 100%
+  );
+}
+
+/* Translucent washi tape strips */
+.tape-strip {
+  position: absolute;
+  width: 70px;
+  height: 22px;
+  background-color: rgba(246, 229, 141, 0.75);
+  box-shadow: 0 1px 3px rgba(0,0,0,0.08);
+  backdrop-filter: blur(1px);
+  z-index: 10;
+}
+
+.tape-strip-blue {
+  background-color: rgba(160, 205, 255, 0.7);
+}
+
+/* Hand drawn marker outlines */
+.sketch-box {
+  border: 3px solid #ff6e40;
+  border-radius: 255px 15px 225px 15px/15px 225px 15px 255px;
+}
+
+.sketch-box-black {
+  border: 2px solid #1e1e1e;
+  border-radius: 255px 20px 240px 18px/18px 240px 20px 255px;
+}
+
+/* Underline doodle */
+.sketch-underline {
+  position: relative;
+}
+
+.sketch-underline::after {
+  content: '';
+  position: absolute;
+  left: 10%;
+  bottom: -6px;
+  width: 80%;
+  height: 4px;
+  border-bottom: 2px solid #111;
+  border-top: 1px solid #111;
+  border-radius: 40%;
+}
+
+/* Custom drop shadow for playful stickers */
+.sticker-shadow {
+  box-shadow: 3px 4px 0px 0px rgba(20, 20, 20, 0.95);
+}
+
+.sticker-shadow-sm {
+  box-shadow: 2px 2px 0px 0px rgba(20, 20, 20, 0.9);
+}
+
+.sticker-shadow-lg {
+  box-shadow: 5px 6px 0px 0px rgba(20, 20, 20, 0.95);
+}
+
+/* Fun interactive wobble on hover */
+@keyframes jiggle {
+  0%, 100% { transform: rotate(-2deg); }
+  50% { transform: rotate(2deg); }
+}
+
+.hover-jiggle:hover {
+  animation: jiggle 0.3s ease-in-out infinite alternate;
+}
