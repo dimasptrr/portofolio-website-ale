@@ -27,7 +27,7 @@ export default function Experience({ experiences = [] }) {
           career &amp; leadership timeline
         </span>
         <h3 className="text-3xl sm:text-4xl font-extrabold text-zinc-900">
-          Work &amp; Organisational Experience
+          Work &amp; Organizational Experience
         </h3>
         <p className="font-hand text-xl text-zinc-600 mt-1">
           Ordered from latest to earliest • Click certificates to view official credentials
