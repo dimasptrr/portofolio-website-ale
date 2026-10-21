@@ -5,7 +5,7 @@ export default function Experience({ experiences = [] }) {
   const [activeFilter, setActiveFilter] = useState('ALL');
   const [selectedCert, setSelectedCert] = useState(null);
 
-  const filterCategories = ['ALL', 'WORK', 'ORGANISATIONS', 'COMMITTEES'];
+  const filterCategories = ['ALL', 'WORK', 'ORGANIZATIONS', 'COMMITTEES'];
 
   // Ensure strict chronological sort from newest to oldest
   const sortedExperiences = useMemo(() => {
@@ -79,7 +79,7 @@ export default function Experience({ experiences = [] }) {
                 <div className="flex flex-wrap items-baseline justify-between gap-2 mb-3">
                   <div className="flex flex-wrap items-center gap-2">
                     <span className="text-[10px] font-mono font-bold uppercase px-2 py-0.5 rounded bg-zinc-100 border border-zinc-300 text-zinc-700">
-                      {exp.category || 'Organisations'}
+                      {exp.category || 'ORGANIZATIONS'}
                     </span>
                     <h4 className="text-lg font-extrabold text-zinc-900">
                       {exp.role}{' '}
